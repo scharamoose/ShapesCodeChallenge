@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesCodingChallenge", "ShapesCodingChallenge\ShapesCodingChallenge.csproj", "{57664F99-3A85-48E1-8C67-D94BECE9F9FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{AC58905C-A802-48C6-BFD5-397316D95587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57664F99-3A85-48E1-8C67-D94BECE9F9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57664F99-3A85-48E1-8C67-D94BECE9F9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57664F99-3A85-48E1-8C67-D94BECE9F9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57664F99-3A85-48E1-8C67-D94BECE9F9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC58905C-A802-48C6-BFD5-397316D95587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC58905C-A802-48C6-BFD5-397316D95587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC58905C-A802-48C6-BFD5-397316D95587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC58905C-A802-48C6-BFD5-397316D95587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

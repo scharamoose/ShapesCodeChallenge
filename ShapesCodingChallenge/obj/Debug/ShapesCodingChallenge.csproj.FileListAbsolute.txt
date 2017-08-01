@@ -1,0 +1,5 @@
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\ShapesCodingChallenge\bin\Debug\ShapesCodingChallenge.exe.config
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\ShapesCodingChallenge\bin\Debug\ShapesCodingChallenge.exe
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\ShapesCodingChallenge\bin\Debug\ShapesCodingChallenge.pdb
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\ShapesCodingChallenge\obj\Debug\ShapesCodingChallenge.exe
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\ShapesCodingChallenge\obj\Debug\ShapesCodingChallenge.pdb

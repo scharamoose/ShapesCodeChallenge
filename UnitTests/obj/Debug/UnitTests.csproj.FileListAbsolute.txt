@@ -1,0 +1,15 @@
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\UnitTests\bin\Debug\UnitTests.dll
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\UnitTests\bin\Debug\ShapesCodingChallenge.exe
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\UnitTests\bin\Debug\ShapesCodingChallenge.pdb
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\UnitTests\bin\Debug\ShapesCodingChallenge.exe.config
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\UnitTests\obj\Debug\UnitTests.dll
+c:\users\david\documents\visual studio 2017\Projects\ShapesCodingChallenge\UnitTests\obj\Debug\UnitTests.pdb
